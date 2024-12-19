@@ -1,0 +1,15 @@
+D:\Course\Route\ASP .Net\C#\AssignmentSolution\CSharpBasics\CSharpBasics\bin\Debug\net6.0\CSharpBasics.exe
+D:\Course\Route\ASP .Net\C#\AssignmentSolution\CSharpBasics\CSharpBasics\bin\Debug\net6.0\CSharpBasics.deps.json
+D:\Course\Route\ASP .Net\C#\AssignmentSolution\CSharpBasics\CSharpBasics\bin\Debug\net6.0\CSharpBasics.runtimeconfig.json
+D:\Course\Route\ASP .Net\C#\AssignmentSolution\CSharpBasics\CSharpBasics\bin\Debug\net6.0\CSharpBasics.dll
+D:\Course\Route\ASP .Net\C#\AssignmentSolution\CSharpBasics\CSharpBasics\bin\Debug\net6.0\CSharpBasics.pdb
+D:\Course\Route\ASP .Net\C#\AssignmentSolution\CSharpBasics\CSharpBasics\obj\Debug\net6.0\CSharpBasics.csproj.AssemblyReference.cache
+D:\Course\Route\ASP .Net\C#\AssignmentSolution\CSharpBasics\CSharpBasics\obj\Debug\net6.0\CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\Route\ASP .Net\C#\AssignmentSolution\CSharpBasics\CSharpBasics\obj\Debug\net6.0\CSharpBasics.AssemblyInfoInputs.cache
+D:\Course\Route\ASP .Net\C#\AssignmentSolution\CSharpBasics\CSharpBasics\obj\Debug\net6.0\CSharpBasics.AssemblyInfo.cs
+D:\Course\Route\ASP .Net\C#\AssignmentSolution\CSharpBasics\CSharpBasics\obj\Debug\net6.0\CSharpBasics.csproj.CoreCompileInputs.cache
+D:\Course\Route\ASP .Net\C#\AssignmentSolution\CSharpBasics\CSharpBasics\obj\Debug\net6.0\CSharpBasics.dll
+D:\Course\Route\ASP .Net\C#\AssignmentSolution\CSharpBasics\CSharpBasics\obj\Debug\net6.0\refint\CSharpBasics.dll
+D:\Course\Route\ASP .Net\C#\AssignmentSolution\CSharpBasics\CSharpBasics\obj\Debug\net6.0\CSharpBasics.pdb
+D:\Course\Route\ASP .Net\C#\AssignmentSolution\CSharpBasics\CSharpBasics\obj\Debug\net6.0\CSharpBasics.genruntimeconfig.cache
+D:\Course\Route\ASP .Net\C#\AssignmentSolution\CSharpBasics\CSharpBasics\obj\Debug\net6.0\ref\CSharpBasics.dll
